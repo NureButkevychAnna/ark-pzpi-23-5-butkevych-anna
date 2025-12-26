@@ -1,0 +1,8 @@
+{
+  "errors": {
+    "no_token": "Access denied. No token provided.",
+    "invalid_token": "Invalid token.",
+    "device_token_required": "Device token required.",
+    "invalid_device_token": "Invalid device token."
+  }
+}
